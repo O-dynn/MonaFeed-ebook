@@ -86,10 +86,7 @@ Criar uma apresentação digital mais forte para o **Mona-Feed**, transformando 
 Além de divulgar o e-book, a página também foi pensada para comunicar, de forma indireta, repertório visual, cuidado estético e visão estratégica na construção de produtos digitais.
 
 ---
-
-## 👨‍💻 Autor
-
-**Adson Isan**  
+ 
 ## 👨‍💻 Autor
 
 **Adson Isan**  
