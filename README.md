@@ -4,7 +4,7 @@ Landing page desenvolvida para apresentar o **Mona-Feed**, um e-book digital cri
 
 A proposta do projeto é transformar a divulgação do produto em uma experiência visual mais refinada, valorizando o conteúdo, reforçando a percepção de valor e conduzindo o visitante para a compra da versão completa.
 
-🔗 **Visualização online no portfólio:** https://SEU-LINK-AQUI.com
+🔗 **Visualização online no portfólio:** https://o-dynn.github.io/MonaFeed-ebook/
 
 ---
 
