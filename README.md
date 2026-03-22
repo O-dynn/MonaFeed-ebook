@@ -86,17 +86,15 @@ Criar uma apresentação digital mais forte para o **Mona-Feed**, transformando 
 Além de divulgar o e-book, a página também foi pensada para comunicar, de forma indireta, repertório visual, cuidado estético e visão estratégica na construção de produtos digitais.
 
 ---
- 
-## 👨‍💻 Autor
+
+## 🧑‍💻 Autor
 
 **Adson Isan**  
-📍 Itapetininga/SP  
-
-[📧 Email](mailto:ads.if2407@gmail.com) •  
-[📸 Instagram](https://www.instagram.com/_ads_if_/) •  
-[💼 LinkedIn](https://www.linkedin.com/in/adson-isan-mkt) •  
-[💬 WhatsApp](https://wa.me/5515998584798) •  
-[🌐 Portfólio](https://o-dynn.github.io/Meu-Portfolio-EMD/)
+📍 Itapetininga/SP — remoto ou presencial  
+📧 [ads.if2407@gmail.com](mailto:ads.if2407@gmail.com)  
+💬 [WhatsApp](https://wa.me/5515998584798)  
+💼 [LinkedIn](https://www.linkedin.com/in/adson-isan-mkt)  
+🌐 [Portfólio Online](https://O-dynn.github.io/)
 
 ---
 
